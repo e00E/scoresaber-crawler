@@ -1,0 +1,64 @@
+{
+    "songs": [
+        {
+            "uid": 101208,
+            "id": "7719B8DE597CB1BFDFD6048E5FC51656DD5219EE",
+            "name": "Happppy song -- other difficulty that does not really exist just for the test",
+            "songSubName": "",
+            "songAuthorName": "SOOOO",
+            "levelAuthorName": "Hexagonial",
+            "bpm": 226,
+            "diff": "_ExpertPlus_SoloStandard",
+            "scores": "1,751",
+            "scores_day": 45,
+            "ranked": 1,
+            "stars": 1.0,
+            "image": "\/imports\/images\/songs\/7719B8DE597CB1BFDFD6048E5FC51656DD5219EE.png"
+        },
+        {
+            "uid": 101208,
+            "id": "7719B8DE597CB1BFDFD6048E5FC51656DD5219EE",
+            "name": "Happppy song",
+            "songSubName": "",
+            "songAuthorName": "SOOOO",
+            "levelAuthorName": "Hexagonial",
+            "bpm": 226,
+            "diff": "_ExpertPlus_SoloStandard",
+            "scores": "1,751",
+            "scores_day": 45,
+            "ranked": 1,
+            "stars": 9.72,
+            "image": "\/imports\/images\/songs\/7719B8DE597CB1BFDFD6048E5FC51656DD5219EE.png"
+        },
+        {
+            "uid": 109086,
+            "id": "CFCA2FE00BCC418DC9ECF64D92FC01CEEC52C375",
+            "name": "Milk Crown on Sonnetica",
+            "songSubName": "",
+            "songAuthorName": "nameless",
+            "levelAuthorName": "Hexagonial",
+            "bpm": 255,
+            "diff": "_ExpertPlus_SoloStandard",
+            "scores": "954",
+            "scores_day": 39,
+            "ranked": 1,
+            "stars": 10.08,
+            "image": "\/imports\/images\/songs\/CFCA2FE00BCC418DC9ECF64D92FC01CEEC52C375.png"
+        },
+        {
+            "uid": 100024,
+            "id": "762B7BF1C06DBCC7AAB23D955A553E5420FBA6E5",
+            "name": "NUCLEAR-STAR",
+            "songSubName": "",
+            "songAuthorName": "Camellia",
+            "levelAuthorName": "Hexagonial",
+            "bpm": 199,
+            "diff": "_ExpertPlus_SoloStandard",
+            "scores": "1,673",
+            "scores_day": 52,
+            "ranked": 1,
+            "stars": 9.38,
+            "image": "\/imports\/images\/songs\/762B7BF1C06DBCC7AAB23D955A553E5420FBA6E5.png"
+        }
+    ]
+}
